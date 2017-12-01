@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{13AE1AD0-DEEC-458E-9D50-A4286034669F}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AppService PreferredExecutionTarget="Android.Android_5.0" AndroidDesignerPreferredTheme="Theme.AppCompat.Light" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

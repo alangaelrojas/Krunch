@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:myapp="http://schemas.android.com/apk/res-auto"
+	android:background="#B9B8B8">
+	<item 	
+		android:id="@+id/action_refresh"
+		android:icon="@drawable/ic_action_refresh"
+		android:title="Refresh"
+		myapp:showAsAction="always"/>
+	<item 	
+		android:id="@+id/action_help"
+		android:icon="@drawable/ic_menu_edit"
+		android:title="Help"
+		myapp:showAsAction="always"/>
+	<item 	
+		android:id="@+id/action_buy"
+		android:icon="@drawable/ic_buy"
+		android:title="Help"
+		myapp:showAsAction="always"/>
+</menu>	
